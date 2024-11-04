@@ -18,5 +18,3 @@ if __name__=="__main__":
 
     for process_in in list_process:
         process_in.join()
-
-    print("The process is done")
